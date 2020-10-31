@@ -1,0 +1,6 @@
+Monitor Doobie Metrics in Prometheus
+
+Links:
+
+ - [[https://pure-bits.github.io/doobie-prometheus/ Homepage]]
+ - [[https://github.com/zakolenko/doobie-prometheus GitHub repository]]
