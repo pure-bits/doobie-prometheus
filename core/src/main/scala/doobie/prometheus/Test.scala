@@ -17,6 +17,4 @@
 
 package doobie.prometheus
 
-class Test {
-
-}
+class Test {}

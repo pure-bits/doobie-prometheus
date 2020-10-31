@@ -168,9 +168,9 @@ lazy val sharedSettings = Seq(
   developers := List(
     Developer(
       id="roman.zakolenko",
-      name="roman.zakolenko",
+      name="Roman Zakolenko",
       email="zakolenkoroman@gmail.com",
-      url=url("https://pure-bits.github.io")
+      url=url("https://zakolenko.github.io")
     )),
 
   // -- Settings meant for deployment on oss.sonatype.org
